@@ -1,2 +1,2 @@
 # Epiphany
-Website for LAH Nonprofit group at UT called Long-Haul Mentors
+Website for LAH Nonprofit group at UT called Epiphany
